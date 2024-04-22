@@ -1,4 +1,4 @@
-# Finetuning_LLAMA2_with_LORA_and_QLORA
+# Finetuning LLAMA2 with LORA and QLORA
 
 
 ## Overview:
